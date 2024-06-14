@@ -1,0 +1,8 @@
+{
+    "api_key" : "aaaa",
+    "slippage":100,
+    "priorityFee": 0.005,
+    "denominatedInSol": "false",
+    "pool":"pump",
+    "websocket_url":"wss://pumpportal.fun/api/data"
+}
